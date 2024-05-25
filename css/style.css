@@ -63,6 +63,7 @@ body{
 
 .todolist .title{
     color: #25034e;
+    font-size: 18px;
 }
 
 .todolist .title ul{
@@ -95,6 +96,7 @@ body{
     display: flex;
     justify-content: space-between;
     color: #62e4f5;
+    font-size: 18px;
 }
 
 .list .name{
